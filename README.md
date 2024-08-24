@@ -8,7 +8,7 @@ this repo contains __working__ VIA json programming files for both the [wired](h
 
 here's my personal layout:
 
-![keyboard layout](https://raw.githubusercontent.com/xero/aks068-via/main/layout-preview.png)
+![keyboard layout](https://raw.githubusercontent.com/anosatsuk124/aks068-via/main/layout-preview.png)
 
 ## how to
 
